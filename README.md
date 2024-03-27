@@ -1,5 +1,12 @@
 <img width="100" src="https://my.ipaymu.com/asset/images/logo-ipaymu.png">
 
+# The Official iPaymu-python-api
+
+This is the Official Python wrapper/library for iPaymu Payment API, that is compatible with Composer. Visit [https://ipaymu.com](https://ipaymu.com) for more information about the product and see documentation at [https://ipaymu.com/en/api-documentation/](https://ipaymu.com/en/api-documentation/) for more technical details.
+
+Free signup here [https://my.ipaymu.com/members/signup.htm](https://my.ipaymu.com/members/signup.htm) to accept payment online now!
+
+
 ## Usage
 
 ### Requirement
